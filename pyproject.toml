@@ -1,6 +1,6 @@
 [project]
 name = "roman-numerals-utils"
-version = "0.1.0"
+version = "0.1.1"
 description = "Convert integers from 1 to 3999 to Roman numerals and back again"
 requires-python = ">=3.10"
 dependencies = []
